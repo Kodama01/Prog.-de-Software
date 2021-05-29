@@ -1,0 +1,6 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de circulo\bin\Debug\area de circulo.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de circulo\bin\Debug\area de circulo.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de circulo\bin\Debug\area de circulo.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de circulo\obj\Debug\area de circulo.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de circulo\obj\Debug\area de circulo.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de circulo\obj\Debug\area de circulo.pdb

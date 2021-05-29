@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title>Contactenos!</title>
+        <table width="100%">
+            <tr>
+            <td width="10%" style="text-align: center;"><img width="70px" height="70px" src="logosena.png" "></td>
+            <td style="text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif;"><strong><h1>Centro de servicios financieros</h1></strong><br><p style="font-family:Verdana, Geneva, Tahoma, sans-serif;">Atención al ciudadano: Bogotá (57 1) 3430111 - Línea gratuita y resto del país 018000 910270</p></td>
+            <td width="20%" style="text-align: center;">
+                <a href="https://www.facebook.com/SENAColombiaOficial/" target="_blank"><img src="face.png" width="50px" height="50px" hspace="5"></a>
+                <a href="https://twitter.com/SENAComunica" target="_blank"><img src="tweet.png" width="50px" height="50px" hspace="5"></a>
+                <a href="https://www.instagram.com/senacomunica/" target="_blank"><img src="insta.png" width="50px" height="50px" hspace="5"></a>
+                <a><img src="whatsapp.png" width="50px" height="50px" hspace="5"></a>
+            </td>
+            <td width="10%" style="text-align: center;"><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/registro.html" target="_blank"  style="font-family: Verdana, Geneva, Tahoma, sans-serif;"><img src="login.png" width="60px" height="60px"><br>Login</a></td>
+            </tr>
+            </table>
+            <table style="text-align: center; background-color: rgb(236, 111, 39); " border="1" width="100%">
+                <tr style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
+                    <td width="25%"><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/" target="_blank">Inicio</a></td>
+                    <td width="25%"><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1" target="_blank">Programas</a></td>
+                    <td width="25%"><a href="http://portal.senasofiaplus.edu.co/index.php/novedades" target="_blank">Blog</a></td>
+                    <td width="25%"><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/certificaciones.html" target="_blank">Contactenos</a></td>
+                </tr>
+            </table>
+    </head>
+    <hr color="#e65c00">
+    <body>
+        <table width="100%" border="0">
+            <tr>
+                <td width="33%">
+                    <table style="text-align: center;" width="100%" border="0">
+                        <tr><td><strong>CONTACTENOS</strong></td></tr>
+                        <tr><td><hr color="#e65c00"><img src="callimg.jpeg"></td></tr>
+                        <tr><td><hr color="#e65c00"><br>Bogotá (57 1) 3430111 - Línea gratuita y resto del país 018000 910270<hr color="#e65c00"></td></tr>
+                        <tr><td><img src="address.jpg" width="95%" height="50%"></td></tr>
+                        <tr><td><hr color="#e65c00">Servicio Nacional de Aprendizaje SENA - Dirección General
+                            Calle 57 No. 8 - 69 Bogotá D.C. (Cundinamarca), Colombia</td></tr>
+                        <tr><td><hr color="#e65c00"><img src="handshaking.jpg" width="400px" height="250px"></td></tr>
+                    </table>
+                </td>
+                <td width="33%">
+                    <table style="text-align: center;" width="100%" border="0">
+                        <tr><td><h2><div style="border: 4px solid black; padding: 20px; margin: 30px;" ><h2>Servicio Nacional de Aprendizaje<br><br>Centro de Servicios Financieros<br>SENA</h2></div></h2></td></tr>
+                        <tr><td><hr color="#e65c00"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.6752607182566!2d-74.06515078568643!3d4.651881043375309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9a45d9f1654b%3A0x3d69138572d157f2!2sSENA%20-%20Centro%20De%20Servicios%20Financieros!5e0!3m2!1ses!2sco!4v1621973508129!5m2!1ses!2sco" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe></td></tr>
+                        <tr><td><hr color="#e65c00">Debido a la emergencia sanitaria, los Centros de Formación Profesional, Puntos de Atención o Información y demás
+                            espacios físicos destinados por el SENA para la atención presencial a los ciudadanos se encuentran cerrados.<br><hr color="#e65c00"><br>
+                            Conmutador Nacional (57 1) 5461500 - Extensiones<br>
+                            Atención al ciudadano: Bogotá (57 1) 3430111 - Línea gratuita y resto del país 018000 910270<br>
+                            Atención al empresario: Bogotá (57 1) 3430101 - Línea gratuita y resto del país 018000 910682<br><br><br><br><br><br><br></td></tr>
+                    </table>
+                </td>
+                <td width="33%"style="text-align: center;">
+                    <div style="background-image: url(back.jpg); padding: 30px;">
+                        <table>
+                            <form action="#" method="#">
+                            <h3>Nuestro equipo <br> se pondra <br> en contacto contigo</h3>
+                            <hr color="#e65c00"><br>
+                            <tr><input type="text" placeholder="Nombres"></tr><br><br>
+                            <tr><input type="text" placeholder="Apellidos"></tr><br><br>
+                            <tr><input type="password" placeholder="Constraseña"></tr><br><br>
+                            <tr><input type="email" placeholder="Correo Electronico"></tr><br><br>
+                            <tr><input type="tel" placeholder="Numero Telefonico"></tr><br><br>
+                            <tr><input type="text" placeholder="Empresa"></tr><br><br>
+                            <tr><input type="text" placeholder="Cargo"></tr><br><br>
+                            <tr><input type="text" placeholder="Ciudad"></tr><br><br>
+                            <tr><textarea placeholder="Ingresa tu pregunta actual"></textarea></tr><br><br>
+                            <tr><input type="checkbox">Acepto la politica de privacidad</tr><br><br><br><br><br>
+                            <tr><input type="submit" placeholder="Enviar"></tr>
+                            </form>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+        </table>
+        <br><br><br><hr>
+        <footer style="text-align: left;">
+            Juan Manuel Tenorio Riascos<br>
+            Copyright 2021 &copy;<br>
+            Centro de Servicios Financieros
+        </footer>
+    </body>
+</html>

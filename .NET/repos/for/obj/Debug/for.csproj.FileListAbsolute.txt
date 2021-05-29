@@ -1,0 +1,6 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\for\bin\Debug\@for.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\for\bin\Debug\@for.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\for\bin\Debug\@for.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\for\obj\Debug\@for.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\for\obj\Debug\@for.pdb

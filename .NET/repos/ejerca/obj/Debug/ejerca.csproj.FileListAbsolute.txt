@@ -1,0 +1,6 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejerca\bin\Debug\ejerca.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejerca\bin\Debug\ejerca.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejerca\bin\Debug\ejerca.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejerca\obj\Debug\ejerca.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejerca\obj\Debug\ejerca.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejerca\obj\Debug\ejerca.pdb

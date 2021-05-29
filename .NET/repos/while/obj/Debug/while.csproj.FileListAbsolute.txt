@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\while\bin\Debug\@while.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\while\bin\Debug\@while.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\while\bin\Debug\@while.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\while\obj\Debug\while.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\while\obj\Debug\@while.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\while\obj\Debug\@while.pdb

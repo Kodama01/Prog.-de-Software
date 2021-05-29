@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cubo\bin\Debug\volumen de cubo.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cubo\bin\Debug\volumen de cubo.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cubo\bin\Debug\volumen de cubo.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cubo\obj\Debug\volumen de cubo.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cubo\obj\Debug\volumen de cubo.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cubo\obj\Debug\volumen de cubo.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cubo\obj\Debug\volumen de cubo.pdb

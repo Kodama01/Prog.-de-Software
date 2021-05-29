@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase12may framework\bin\Debug\clase12may framework.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase12may framework\bin\Debug\clase12may framework.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase12may framework\bin\Debug\clase12may framework.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase12may framework\obj\Debug\clase12may framework.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase12may framework\obj\Debug\clase12may framework.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase12may framework\obj\Debug\clase12may framework.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase12may framework\obj\Debug\clase12may framework.pdb

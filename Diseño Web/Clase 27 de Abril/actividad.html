@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+    <title>Asignacion de clases</title>
+<head>
+    <style>
+        .text{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+    </style>
+    <center><img src="logosena.png" style="width:100px;height:100px;"></center>
+    <center><h1 style="background-color: darkgray;">Asignacion de Clases en Centro de Servicios Financieros</h1>
+    <p style="color: rgb(21, 26, 26);">El Servicio Nacional de Aprendizaje (SENA) es un establecimiento público de Colombia que ofrece 
+        formación gratuita a millones de colombianos que se benefician con programas técnicos, tecnológicos y complementarios enfocados 
+        en el desarrollo económico, tecnológico y social del país. Está adscrito al Ministerio del Trabajo de Colombia aunque goza de 
+        autonomía administrativa.</p></center>
+</head>
+<hr size="5px" >
+<body>
+    <form>
+    <h3 style="color: gray;">A continuacion debera ingresar <b>TODOS</b> los datos que se soliciten para asignar de forma correcta sus clases</h3>
+<table class="text">
+    <tr>
+        <td><b>Ingresa la URL de tu pagina web:</b></td>
+        <td ><input type="url" name="url1" placeholder="www.example.com"></td>
+    </tr>
+    <tr>
+        <td><b>Ingresa tus nombres y apellidos:</b></td>
+        <td><input type="text" name="names1" placeholder="Nombres y Apellidos"></td>
+    </tr>
+    <tr>
+        <td><b>Ingresa la direccion de tu casa / domicilio:</b></td>
+        <td><input type="text" name="address1" placeholder="Direccion"></td>
+    </tr>
+    <tr>
+        <td><b>Ingresa tu numero telefonico:</b></td>
+        <td><input type="tel" name="phone1" placeholder="Numero telefonico"></td>
+    </tr>
+    <tr>
+        <td><b>Ingresa tu direccion de correo electronico:</b></td>
+        <td><input type="email" name="email1" placeholder="tunombre123@outlook.com"></td>
+    </tr>
+    <tr>
+        <td><b>Ingresa el numero de ficha inscrito:</b></td>
+        <td><input type="number" name="numf1" placeholder="Numero de ficha"></td>
+    </tr>
+    <tr>
+        <td><b>Ingresa la fecha de Inicio de tu ficha</b></td>
+        <td><input type="date" name="dates" placeholder="Fecha Inicio"></td>
+    </tr>
+    <tr>
+        <td><b>Ingresa la fecha de Finalizacion de tu ficha</b></td>
+        <td><input type="date" name="datef" placeholder="Fecha Finalizacion"></td>
+    </tr>
+    <tr>
+        <td><b>Jornada de la ficha</b></td>
+        <td>    <select name="journ">
+            <option>Diurna</option>
+            <option>Tarde</option>
+            <option>Nocturna</option>
+            <option selected>Seleccionar...</option>
+        </select></td>
+    </tr>
+    <tr>
+        <td><b>Hora de inicio de la jornada</b></td>
+        <td><input type="time" name="startj"></td>
+    </tr>
+    <tr>
+        <td><b>Hora de fin de la jornada</b></td>
+        <td><input type="time" name="endj"></td>
+    </tr>
+    <tr>
+        <td><b>Piso donde se llevara a cabo la formacion</b></td>
+        <td><select name="floor">
+            <option>1ro</option>
+            <option>2do</option>
+            <option>3ro</option>
+            <option>4to</option>
+            <option>5to</option>
+            <option>6to</option>
+            <option>7mo</option>
+            <option>8vo</option>
+            <option>9no</option>
+            <option>10mo</option>
+            <option>11vo</option>
+            <option>12vo</option>
+            <option>13vo</option>
+            <option>14vo</option>
+            <option selected>Seleccionar...</option>
+        </select></td>
+    </tr>
+    <tr>
+        <td><b>En que aula se llevara a cabo la formacion:</b></td>
+        <td><select name="classroom">
+            <option>A</option>
+            <option>B</option>
+            <option>C</option>
+            <option>D</option>
+            <option>E</option>
+            <option>F</option>
+            <option>G</option>
+            <option>H</option>
+            <option selected>Seleccionar...</option>
+        </select></td>
+    </tr>
+    <tr>
+        <td><b>Elige tu color preferido!</b></td>
+        <td>  <input type="color" name="favcol"></td>
+    </tr>
+</table><br>
+<input type="submit" name="submitf" value="Subir Informacion">
+<input type="reset" name="delinf" value="Borrar Informacion">
+    </form>
+</body><br><hr><br>
+<footer>SENA - Centro de Servicios Financieros. © Copyright 2021<br>
+Aprendiz - Juan Manuel Tenorio Riascos<br>
+Fecha de Actualizacion 27 de abril de 2021.</footer>
+</html>

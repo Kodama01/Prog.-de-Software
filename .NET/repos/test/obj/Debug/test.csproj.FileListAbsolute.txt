@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\test\bin\Debug\test.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\test\bin\Debug\test.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\test\bin\Debug\test.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\test\obj\Debug\test.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\test\obj\Debug\test.pdb

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<!--
+    Juan Manuel Tenorio Riascos
+    Aprendiz SENA
+    4 de Mayo de 2021
+    Tablas en HTML
+-->
+<html>    
+    <head>
+        <title>Tabla de prueba</title>
+        <style>
+            tr{
+                text-align: center;
+            }
+            td{
+                border: black 2px solid;
+            }
+        </style>
+    </head>
+
+    <body bgcolor="#DAF7A6">
+        <h1 style="text-align: center;">Horario Semanal de Aprendizes SENA en la ficha 2233461B</h1>
+        <hr><br>
+        <table style="HEIGHT:100%;WIDTH:100%;" border=3>
+            <tr bgcolor="#39546F">
+                <td>Horario</td>
+                <td>Dia</td>
+                <td>Tema</td>
+                <td>Instructor</td>
+                <td>Ambiente</td>
+                <td>Ficha</td>
+                <td>Adicionales</td>
+            </tr>
+            <tr>
+                <td>12:00 - 2:00</td>
+                <td rowspan="3" bgcolor="#667A8E">Lunes</td>
+                <td>Ciencias nat(Fisica)</td>
+                <td>Jorge E. Rodriguez</td>
+                <td></td>
+                <td rowspan="15"  bgcolor="#667A8E">2233461-B<br>Fase II</td>
+                <td rowspan="3">Ingles<br>de 9:00 a 12:00<br>Diego Morales</td>
+            </tr>
+            <tr>
+                <td>2:20 - 4:10</td>
+
+                <td>Ciencias nat (Fisica)</td>
+                <td>Jorge E. Rodriguez</td>
+                <td></td>
+
+
+            </tr>
+            <tr>
+                <td>4:10 - 6:00</td>
+
+                <td>Etica</td>
+                <td>Nancy C. Torres</td>
+                <td></td>
+
+
+            </tr>
+            <tr>
+                <td>12:00 - 2:00</td>
+                <td rowspan="3" bgcolor="#667A8E">Martes</td>
+                <td>Diseño Web</td>
+                <td>Jose A. Caro</td>
+                <td></td>
+
+                <td rowspan="3"></td>
+            </tr>
+            <tr>
+                <td>2:20 - 4:10</td>
+
+                <td>Diseño Web</td>
+                <td>Jose A. Caro</td>
+                <td></td>
+
+
+            </tr>
+            <tr>
+                <td>4:10 - 6:00</td>
+
+                <td>Diseño Web</td>
+                <td>Jose A. Caro</td>
+                <td></td>
+
+
+            </tr>
+            <tr>
+                <td>12:00 - 2:00</td>
+                <td rowspan="3" bgcolor="#667A8E">Miercoles</td>
+                <td>Desarrollo A.Net</td>
+                <td>Douglas Ovies</td>
+                <td></td>
+
+                <td rowspan="3"></td>
+            </tr>
+            <tr>
+                <td>2:20 - 4:10</td>
+
+                <td>Desarrollo A.Net</td>
+                <td>Douglas Ovies</td>
+                <td></td>
+
+
+            </tr>
+            <tr>
+                <td>4:10 - 6:00</td>
+
+                <td>Desarrollo A.Net</td>
+                <td>Douglas Ovies</td>
+                <td></td>
+
+
+            </tr>
+            <tr>
+                <td>12:00 - 2:00</td>
+                <td rowspan="3" bgcolor="#667A8E">Jueves</td>
+                <td>Comunicaciones</td>
+                <td>Johan A. Pinzon</td>
+                <td></td>
+
+                <td rowspan="3"></td>
+            </tr>
+            <tr>
+                <td>2:20 - 4:10</td>
+
+                <td>Tics - Excel - Access</td>
+                <td>Christian Socha</td>
+                <td></td>
+
+
+            </tr>
+            <tr>
+                <td>4:10 - 6:00</td>
+
+                <td>-</td>
+                <td></td>
+                <td></td>
+
+
+            </tr>
+            <tr>
+                <td>12:00 - 2:00</td>
+                <td rowspan="3" bgcolor="#667A8E">Viernes</td>
+                <td>Desarrollo A.Net</td>
+                <td>Douglas Ovies</td>
+                <td></td>
+
+                <td rowspan="3"></td>
+            </tr>
+            <tr>
+                <td>2:20 - 4:10</td>
+
+                <td>Desarrollo A.Net</td>
+                <td>Douglas Ovies</td>
+                <td></td>
+
+
+            </tr>
+            <tr>
+                <td>4:10 - 6:00</td>
+
+                <td>Desarrollo A.Net</td>
+                <td>Douglas Ovies</td>
+                <td></td>
+
+
+            </tr>
+        </table>
+        <br><br><br><hr>
+        <footer>
+            Juan Manuel Tenorio Riascos<br>
+            Copyright 2021 &copy;
+            Centro de Servicios Financieros
+        </footer>
+    </body>
+</html>

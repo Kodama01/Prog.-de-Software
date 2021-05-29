@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase26may\bin\Debug\clase26may.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase26may\bin\Debug\clase26may.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase26may\bin\Debug\clase26may.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase26may\obj\Debug\clase26may.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase26may\obj\Debug\clase26may.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase26may\obj\Debug\clase26may.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\clase26may\obj\Debug\clase26may.pdb

@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\forCases\bin\Debug\forCases.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\forCases\bin\Debug\forCases.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\forCases\bin\Debug\forCases.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\forCases\obj\Debug\forCases.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\forCases\obj\Debug\forCases.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\forCases\obj\Debug\forCases.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\forCases\obj\Debug\forCases.pdb

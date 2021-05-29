@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de trapecio\bin\Debug\area de trapecio.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de trapecio\bin\Debug\area de trapecio.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de trapecio\bin\Debug\area de trapecio.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de trapecio\obj\Debug\area de trapecio.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de trapecio\obj\Debug\area de trapecio.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de trapecio\obj\Debug\area de trapecio.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\area de trapecio\obj\Debug\area de trapecio.pdb

@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\areatrapeciotest\bin\Debug\areatrapeciotest.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\areatrapeciotest\bin\Debug\areatrapeciotest.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\areatrapeciotest\bin\Debug\areatrapeciotest.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\areatrapeciotest\obj\Debug\areatrapeciotest.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\areatrapeciotest\obj\Debug\areatrapeciotest.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\areatrapeciotest\obj\Debug\areatrapeciotest.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\areatrapeciotest\obj\Debug\areatrapeciotest.pdb

@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\sumaEntradas\bin\Debug\sumaEntradas.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\sumaEntradas\bin\Debug\sumaEntradas.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\sumaEntradas\bin\Debug\sumaEntradas.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\sumaEntradas\obj\Debug\sumaEntradas.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\sumaEntradas\obj\Debug\sumaEntradas.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\sumaEntradas\obj\Debug\sumaEntradas.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\sumaEntradas\obj\Debug\sumaEntradas.pdb

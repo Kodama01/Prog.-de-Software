@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\factorial\bin\Debug\factorial.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\factorial\bin\Debug\factorial.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\factorial\bin\Debug\factorial.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\factorial\obj\Debug\factorial.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\factorial\obj\Debug\factorial.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\factorial\obj\Debug\factorial.pdb

@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejercb\bin\Debug\ejercb.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejercb\bin\Debug\ejercb.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejercb\bin\Debug\ejercb.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejercb\obj\Debug\ejercb.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejercb\obj\Debug\ejercb.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejercb\obj\Debug\ejercb.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\ejercb\obj\Debug\ejercb.pdb

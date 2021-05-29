@@ -1,0 +1,6 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cilindro\bin\Debug\volumen de cilindro.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cilindro\bin\Debug\volumen de cilindro.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cilindro\bin\Debug\volumen de cilindro.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cilindro\obj\Debug\volumen de cilindro.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cilindro\obj\Debug\volumen de cilindro.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\volumen de cilindro\obj\Debug\volumen de cilindro.pdb

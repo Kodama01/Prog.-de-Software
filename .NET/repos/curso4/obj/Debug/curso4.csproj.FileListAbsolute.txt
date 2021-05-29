@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\curso4\bin\Debug\curso4.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\curso4\bin\Debug\curso4.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\curso4\bin\Debug\curso4.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\curso4\obj\Debug\curso4.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\curso4\obj\Debug\curso4.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\curso4\obj\Debug\curso4.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\curso4\obj\Debug\curso4.pdb

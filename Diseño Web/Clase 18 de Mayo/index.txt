@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>Pagina de Logueo</title>
+        <table width="100%">
+            <tr>
+            <td width="10%" style="text-align: center;"><img width="70px" height="70px" src="logosena.png" "></td>
+            <td style="text-align: center;">SENA Centro de servicios financieros<br><p style="font-family: Arial, Helvetica, sans-serif;">Atención al ciudadano: Bogotá (57 1) 3430111 - Línea gratuita y resto del país 018000 910270</p></td>
+            <td width="20%" style="text-align: center;">
+                <a href="https://www.facebook.com/SENAColombiaOficial/" target="_blank"><img src="face.png" width="50px" height="50px"></a>
+                <a href="https://twitter.com/SENAComunica" target="_blank"><img src="tweet.png" width="50px" height="50px"></a>
+                <a href="https://www.instagram.com/senacomunica/" target="_blank"><img src="insta.png" width="50px" height="50px"></a>
+                <a><img src="whatsapp.png" width="50px" height="50px"></a>
+            </td>
+            <td width="10%" style="text-align: center;"><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/registro.html" target="_blank"  style="font-family: Verdana, Geneva, Tahoma, sans-serif;"><img src="login.png" width="60px" height="50px"><br>Login</a></td>
+            </tr>
+            </table>
+            <table style="text-align: center; background-color: rgb(236, 111, 39); " border="1" width="100%">
+                <tr style="font-family: Verdana, Geneva, Tahoma, sans-serif;">
+                    <td width="25%"><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/" target="_blank">Inicio</a></td>
+                    <td width="25%"><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/buscar-oferta-educativa.html?radio=opcion199&buscador_texto=Ej%3A+Cocina%2C+Contabilidad&ffv=-1&ciudad=Ej%3A+Cali%2C+Cartagena&campoEmpresa=&nfct=-1" target="_blank">Programas</a></td>
+                    <td width="25%"><a href="http://portal.senasofiaplus.edu.co/index.php/novedades" target="_blank">Blog</a></td>
+                    <td width="25%"><a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/certificaciones.html" target="_blank">Contactenos</a></td>
+                </tr>
+            </table>
+    </head>
+    <body>
+        <br><hr><br>
+        <table style="text-align: center;" width="100%" border="0" >
+            <tr>
+                <td width="50%"><h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif;">SERVICIO NACIONAL DE APRENDIZAJE</h2><img src="side.jpg" style="width: 90%; height: 70%;"><br><p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Durante el registro en el aplicativo SOFIA-Plus tenga en cuenta ingresar correctamente sus datos de identificación,  e ingresar de forma correcta los datos básicos de contacto.</p>
+                </td>
+                <td width="50%" style="background-image: url(backg.jpg); background-repeat: no-repeat; background-size:100% 100%;">
+                <table style="text-align: center; background-color: darkgray; opacity: 0.8;" width="100%">
+                    <h2 style="font-family:Verdana, Geneva, Tahoma, sans-serif; color: #667A8E;">Ingreso de usuarios</h2>
+                    <br><br><br><br><br><br><br><br>
+                    <form>
+                    <tr>
+                        <td style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Ingresa tu usuario:</td>
+                        <td><input type="text" ></td>
+
+                    </tr>
+                    <tr>
+                        <td style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Ingresa la contraseña: </td>
+                        <td><input type="password" ></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><a  style="font-family: Verdana, Geneva, Tahoma, sans-serif;" href="http://oferta.senasofiaplus.edu.co/sofia-oferta/request_change_key.html">Has olvidado la contraseña?</a></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><input type="submit"></td>
+                    </tr>
+                    </form>
+                </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+    <br><hr><br>
+    <footer style="text-align: right; font-family: Verdana, Geneva, Tahoma, sans-serif;">
+        SENA - Centro de Servicios Financieros Copyright &copy; 2021<br>
+        Juan Manuel Tenorio Riascos<br>
+        18 de Mayo del 2021
+    </footer>
+    <br>
+</html>

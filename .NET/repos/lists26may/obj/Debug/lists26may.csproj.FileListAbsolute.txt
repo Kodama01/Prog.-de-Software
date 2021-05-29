@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\lists26may\bin\Debug\lists26may.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\lists26may\bin\Debug\lists26may.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\lists26may\bin\Debug\lists26may.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\lists26may\obj\Debug\lists26may.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\lists26may\obj\Debug\lists26may.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\lists26may\obj\Debug\lists26may.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\lists26may\obj\Debug\lists26may.pdb

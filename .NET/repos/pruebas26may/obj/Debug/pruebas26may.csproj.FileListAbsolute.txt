@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\pruebas26may\bin\Debug\pruebas26may.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\pruebas26may\bin\Debug\pruebas26may.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\pruebas26may\bin\Debug\pruebas26may.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\pruebas26may\obj\Debug\pruebas26may.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\pruebas26may\obj\Debug\pruebas26may.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\pruebas26may\obj\Debug\pruebas26may.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\pruebas26may\obj\Debug\pruebas26may.pdb

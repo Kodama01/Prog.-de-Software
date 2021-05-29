@@ -1,0 +1,7 @@
+D:\HP\Desktop\Prog. de Software\.NET\repos\numeroentre10y20\bin\Debug\numeroentre10y20.exe.config
+D:\HP\Desktop\Prog. de Software\.NET\repos\numeroentre10y20\bin\Debug\numeroentre10y20.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\numeroentre10y20\bin\Debug\numeroentre10y20.pdb
+D:\HP\Desktop\Prog. de Software\.NET\repos\numeroentre10y20\obj\Debug\numeroentre10y20.csprojAssemblyReference.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\numeroentre10y20\obj\Debug\numeroentre10y20.csproj.CoreCompileInputs.cache
+D:\HP\Desktop\Prog. de Software\.NET\repos\numeroentre10y20\obj\Debug\numeroentre10y20.exe
+D:\HP\Desktop\Prog. de Software\.NET\repos\numeroentre10y20\obj\Debug\numeroentre10y20.pdb
